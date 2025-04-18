@@ -1,7 +1,7 @@
 # Documentation Template
 
 <div align="center">
-  <img src="../images/logo.png" alt="Dangelmaiers Logo" width="80" height="80">
+  <img src="images/logo.png" alt="Dangelmaiers Logo" width="80" height="80">
   <h3 align="center">doc-template</h3>
   <p align="center">
     Standard template for documentation repositories in the Dangelmaiers organization
